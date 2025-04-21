@@ -1,13 +1,9 @@
-
-<!-- Futuristic GitHub README by ChatGPT -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Edwin%20Joston%20Cherayath&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=EDWIN%20JOSTON%20CHERAYATH&fontSize=40&fontColor=00ff00&animation=fadeIn" alt="header" />
 </p>
 
-<h2 align="center">✨ Welcome to My GitHub Space ✨</h2>
-<p align="center"><i>"Where Code Meets Creativity & the Future Begins"</i></p>
-
+<h2 align="center" style="color:0f0f0f;">👾  You are being watched. But you already knew that 👾</h2>
+<p align="center" style="color:#00ff00;"><i>"Code is the Key, Creativity is the Door"</i></p>
 ---
 
 
