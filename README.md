@@ -49,8 +49,8 @@ Hi there! I'm **Edwin Joston Cherayath**, a passionate and futuristic thinker wi
 
 | Certification | Provider | Issued |
 |---------------|----------|--------|
-| [Networking Basics](https://www.credly.com/badges/df6fe65d-c719-412e-96b1-0e3d3ff1e2c2) | Cisco | Oct 2023 |
-| [Introduction to Cybersecurity](https://www.credly.com/badges/51c8e68a-cb02-45cb-94e2-e9828c6b7eb4) | Cisco | Sep 2023 |
+| [Networking Basics](https://www.credly.com/badges/70e20dad-5261-4313-a4b8-c52e52d826d5/linked_in_profile?trk=public_profile_see-credential) | Cisco | Oct 2023 |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/d709743f-dbff-46cd-b9a8-b9f490791c58/linked_in_profile?trk=public_profile_see-credential) | Cisco | Sep 2023 |
 
 **Core Skills**: `Cybersecurity`, `Networking`, `Problem Solving`
 
